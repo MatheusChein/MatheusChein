@@ -1,5 +1,3 @@
-# Matheus Chein 
-
 ## Full Stack Developer :neckbeard:
 Rio de Janeiro, Brazil
 
