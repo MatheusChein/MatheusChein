@@ -1,7 +1,7 @@
-## Web Developer :neckbeard:
-Rio de Janeiro, Brazil
+## :computer: Web Developer
 
- :rocket:  &nbsp; Currently working at **ALLU**
+ :sunrise: &nbsp; Rio de Janeiro, Brazil
+ <br/> :rocket: &nbsp; Currently working at **ALLU**
  <br/> 🥅 &nbsp; Current Goal: Work full time as a developer
  <br/> 🌱 &nbsp; Open to new projects
  <br/> :heart: &nbsp; Favorite stack: React, React Native, Typescript and Node.js 
@@ -9,11 +9,11 @@ Rio de Janeiro, Brazil
  [![Linkedin Badge](https://img.shields.io/badge/-MatheusChein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-chein/)](https://www.linkedin.com/in/matheus-chein/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuschein@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuschein@gmail.com)](mailto:matheuschein@gmail.com)
 
-### GitHub Stats:
+### :stars: GitHub Stats:
 
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuschein&count_private=true&show_icons=true&theme=radical)
 
-### Languages and Tools:
+### :toolbox: Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,9 +35,9 @@ Rio de Janeiro, Brazil
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschein&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschein&theme=radical&layout=compact)
 
-### Check out these repos:
+### :point_right: Check out these repos:
 
 <a href="https://github.com/MatheusChein/Proffy/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy" />
