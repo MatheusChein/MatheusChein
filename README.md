@@ -49,3 +49,6 @@
 <a href="https://github.com/MatheusChein/desafio-react-native">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-react-native" />
 </a>
+<a href="https://github.com/MatheusChein/desafio-node">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-node" />
+</a>
