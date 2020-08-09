@@ -39,13 +39,13 @@ Rio de Janeiro, Brazil
 
 ### Check out these repos:
 
-<a href="https://github.com/MatheusChein/desafio-reactjs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&repo=desafio-reactjs" />
+<a href="https://github.com/MatheusChein/Proffy/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy" />
 </a>
-<a href="https://github.com/MatheusChein/desafio-node">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&repo=desafio-node" />
+<a href="https://github.com/MatheusChein/desafio-reactjs">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-reactjs" />
 </a> 
 <br> <br>
 <a href="https://github.com/MatheusChein/desafio-react-native">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&repo=desafio-react-native" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-react-native" />
 </a>
