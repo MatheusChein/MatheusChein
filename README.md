@@ -39,7 +39,7 @@
 
 ### :point_right: Check out these repos:
 
-<a href="https://github.com/MatheusChein/Proffy/">
+<a href="https://github.com/MatheusChein/Proffy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy" />
 </a>
 <a href="https://github.com/MatheusChein/desafio-reactjs">
