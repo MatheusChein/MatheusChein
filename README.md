@@ -9,7 +9,7 @@ Rio de Janeiro, Brazil
 
 ### GitHub Stats:
 
-[![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuschein&count_private=true&show_icons=true&theme=radical)]
+![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuschein&count_private=true&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 
@@ -33,7 +33,7 @@ Rio de Janeiro, Brazil
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschein&layout=compact)
 
 ### Check out these repos:
 
