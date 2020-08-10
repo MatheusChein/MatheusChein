@@ -39,16 +39,12 @@
 
 ### :point_right: Check out these repos:
 
-<a href="https://github.com/MatheusChein/Proffy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy" />
-</a>
-<a href="https://github.com/MatheusChein/desafio-reactjs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-reactjs" />
-</a> 
-<br> <br>
-<a href="https://github.com/MatheusChein/desafio-react-native">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-react-native" />
-</a>
-<a href="https://github.com/MatheusChein/desafio-node">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-node" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy)](https://github.com/MatheusChein/Proffy)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=GoFinances)](https://github.com/MatheusChein/GoFinances)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-reactjs)](https://github.com/MatheusChein/desafio-reactjs)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-react-native)](https://github.com/MatheusChein/desafio-react-native)
+
+
