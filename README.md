@@ -1,7 +1,7 @@
 ## :computer: Web Developer
 
  :sunrise: &nbsp; Rio de Janeiro, Brazil
- <br/> :rocket: &nbsp; Currently working at **ALLU**
+ <br/> :rocket: &nbsp; Currently working at **PROOF**
  <br/> 🥅 &nbsp; Current Goal: Work full time as a developer
  <br/> 🌱 &nbsp; Open to new projects
  <br/> :heart: &nbsp; Favorite stack: React, React Native, Typescript and Node.js 
