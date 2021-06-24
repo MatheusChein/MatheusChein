@@ -1,4 +1,4 @@
-## :computer: Web Developer
+## :computer: Software Engineer
 
  :sunrise: &nbsp; Rio de Janeiro, Brazil
  <br/> :rocket: &nbsp; Currently working at **BairesDev**
