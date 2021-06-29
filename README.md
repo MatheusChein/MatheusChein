@@ -42,6 +42,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=Proffy)](https://github.com/MatheusChein/Proffy)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=letmeask-React)](https://github.com/MatheusChein/letmeask-React)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=GoFinances)](https://github.com/MatheusChein/GoFinances)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-reactjs)](https://github.com/MatheusChein/desafio-reactjs)
