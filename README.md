@@ -51,6 +51,5 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-reactjs)](https://github.com/MatheusChein/desafio-reactjs)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuschein&theme=radical&repo=desafio-react-native)](https://github.com/MatheusChein/desafio-react-native)
 
 
