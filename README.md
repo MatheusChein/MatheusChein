@@ -1,7 +1,7 @@
 ## :computer: Software Engineer
 
  :sunrise: &nbsp; Rio de Janeiro, Brazil
- <br/> :rocket: &nbsp; Currently working at **BairesDev**
+ <br/> :rocket: &nbsp; Currently working at **Oowlish**
  <br/> 🥅 &nbsp; Current Goal: Understand the theory behind React to make better performing apps 
  <br/> 🌱 &nbsp; Open to new projects
  <br/> :heart: &nbsp; Favorite stack: React, React Native, Typescript and Node.js 
